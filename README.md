@@ -26,24 +26,18 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/anaconda/anaconda-icon.svg" alt="anaconda" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="apache spark" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/CUDA_logo.svg" alt="cuda" width="40" height="40"/> 
-  </a>
+ 
 </p>
 
 
